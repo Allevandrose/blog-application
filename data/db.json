@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "d22c",
+      "title": "Blog done",
+      "author": "Ibrahim",
+      "body": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+    },
+    {
+      "id": "b05c",
+      "title": "cars",
+      "author": "ibrahim",
+      "body": "Cars revolutionize personal transportation, offering speed and convenience. Modern vehicles are increasingly electric, reducing environmental impact. Innovations in autonomous driving promise a future of safer, more efficient travel."
+    },
+    {
+      "id": "f624",
+      "title": "Drones",
+      "author": "Ibrahim",
+      "body": "1. Drones are revolutionizing industries from agriculture to delivery services, offering unprecedented aerial perspectives and efficiency.\n2. Equipped with advanced cameras and sensors, drones enhance search and rescue operations, providing real-time data and improving safety.\n3. The rise of drone technology poses regulatory challenges, balancing innovation with privacy and security concerns."
+    }
+  ]
+}
